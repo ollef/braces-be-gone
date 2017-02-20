@@ -70,7 +70,7 @@ Available options:
   --brace-chars CHARS      Use CHARS as braces (default: "{};")
 ```
 
-You'll need `stack` to run this.
+You'll need [Haskell Stack](https://www.haskellstack.org/) to run this.
 
 ## Contact
 
